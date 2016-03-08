@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1BC184</color> <!-- Action Bar 3F51B5-->
+    <color name="colorPrimaryDark">#1daf84</color> <!-- Status Bar 303F9F-->
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="background">#1BC184</color>
+
+    <!-- Login Colors -->
+    <color name="login_separator">#e5e5e5</color>
+    <color name="login_title">#2C3E50</color>
+
+    <!-- Feed Colors -->
+    <color name="nav_background">#2C3E50</color>
+    <color name="feed_time">#999999</color>
+
+    <!-- MISC -->
+    <color name="white">#ffffff</color>
+    <color name="fab_douille">#f0ad4e</color>
+
+</resources>
