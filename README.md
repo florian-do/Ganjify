@@ -3,6 +3,8 @@ Free social network application
 
 ### The project ###
 
+![alt tag](http://62-210-36-42.rev.poneytelecom.eu/~do_f/android/ganjify_logo.png)
+
 Ganjify is a free social network from California
 
 ### External Library used ###
